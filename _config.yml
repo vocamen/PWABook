@@ -127,7 +127,7 @@ url-pretty: "vocamen.com"  # eg. "deanattali.com/beautiful-jekyll"
 staticman:
   repository : vocamen/PWABook # GitHub username/repository eg. "vocamen/PWABook"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  endpoint   : https://mkkeffeler-staticman.glitch.me/v3/entry/github/vocamen/PWABook/master/comments # https://ntsim-staticman.glitch.me/v2/entry/github/ # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
