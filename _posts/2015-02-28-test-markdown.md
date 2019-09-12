@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publish your Website as an App on Mobile
+title: Publish your Web App on Mobile
 subtitle: Frequently Asked Questions
 bigimg: /img/path.jpg
 gh-repo: vocamen/PWAbook
