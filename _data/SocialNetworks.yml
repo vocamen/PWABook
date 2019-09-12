@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:info@vocamen.com"
   icon: "fa-envelope"
 
 linkedin:

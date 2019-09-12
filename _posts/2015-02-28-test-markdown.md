@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: FAQ
+subtitle: Frequently Asked Questions
+gh-repo: vocamen/PWAbook
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [book]
 comments: true
 ---
 
