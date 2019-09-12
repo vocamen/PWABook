@@ -2,6 +2,7 @@
 layout: post
 title: FAQ
 subtitle: Frequently Asked Questions
+bigimg: /img/path.jpg
 gh-repo: vocamen/PWAbook
 gh-badge: [star, fork, follow]
 tags: [book]
@@ -17,7 +18,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 Here's a useless table:
 
 | Number | Next number | Previous number |
-| :------ |:--- | :--- |
+| :- |:- | :- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
